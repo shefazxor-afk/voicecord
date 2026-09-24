@@ -1,0 +1,6 @@
+—pycache_/
+*•py[cod]
+-env
+•venv/
+venv/
+tokens.json
